@@ -7,8 +7,7 @@
 ### :computer: Começando
 <p>Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina,clone o repositório em uma pasta na sua máquina:<p>
 
-git clone https://github.com/gabialmada11/C214-L1.git
-
+git clone https://github.com/gabialmada11/Exerc-cio-C214-L1---API-Service.git
 ### :mortar_board: Autores
 
 - Gabriela Almada Paranhos de Melo
